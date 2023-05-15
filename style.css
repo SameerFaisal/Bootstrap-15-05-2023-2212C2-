@@ -1,0 +1,44 @@
+.navbar{
+    background-color: black !important;
+}
+.btn-dark:hover{
+    background-color: white !important;
+    color: black !important;
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.lm{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    height: 200px;
+    
+}
+
+.items{
+    list-style-type: none;
+}
+
+.card{
+    box-shadow: 5px 0px gray !important;
+}
+
+.fa-facebook-square{
+    font-size: 28px !important;
+}
+.nav-item{
+   margin: 10px;
+}
+img{
+    width: 100%;
+}
+.container{
+    background-image: url("./px-beach-daylight-fun-1430675-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
